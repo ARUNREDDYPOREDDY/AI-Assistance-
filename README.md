@@ -1,1 +1,1 @@
-# AI-Assistance-
+# AI Assisted Coding
